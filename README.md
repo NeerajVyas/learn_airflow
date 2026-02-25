@@ -14,15 +14,13 @@ source venv/bin/activate
 2. Set the Airflow Home Path
 Permanent Path (Recommended)
 To make sure your M1 always knows where Airflow lives, add it to your .zshrc file.
-1. Open your zsh configuration:Bashnano ~/.zshrc
-2. 
-3. Add this line at the bottom (replace /your/path/to/airflow with your actual folder path):Bashexport AIRFLOW_HOME=/Users/neerajvyas/airflow_projects
-4. 
+3. Open your zsh configuration:Bashnano ~/.zshrc
+4. Add this line at the bottom (replace /your/path/to/airflow with your actual folder path):Bashexport AIRFLOW_HOME=/Users/neerajvyas/airflow_projects
 5. Save and Exit: Press Ctrl + O, then Enter, then Ctrl + X.
 6. Apply the changes:Bashsource ~/.zshrc
 
-
-3. Install Airflow (The "Constraints" Method)
+========================================
+#. Install Airflow (The "Constraints" Method)
 Airflow is sensitive to library versions. To ensure a smooth install on M1 chips, use the official constraint files provided by Apache.
 Bash
 
@@ -39,7 +37,7 @@ CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${A
 pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
 
 
-4. Initialize and Start
+#. Initialize and Start
 Once installed, you need to set up the backend database (SQLite by default) and create a user so you can log in.
 Initialize Database
 Bash
