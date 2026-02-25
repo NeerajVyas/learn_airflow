@@ -1,0 +1,200 @@
+[2026-02-25T06:48:00.269+0530] {processor.py:161} INFO - Started process (PID=62490) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:48:00.269+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:48:00.270+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:48:00.269+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:48:00.281+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:48:00.281+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:48:00.281+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:48:00.319+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.050 seconds
+[2026-02-25T06:49:47.800+0530] {processor.py:161} INFO - Started process (PID=66069) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:49:47.801+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:49:47.802+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:49:47.802+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:49:47.814+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:49:47.813+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:49:47.814+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:49:47.852+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2026-02-25T06:51:33.563+0530] {processor.py:161} INFO - Started process (PID=69939) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:51:33.564+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:51:33.565+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:51:33.565+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:51:33.578+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:51:33.577+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:51:33.578+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:51:33.616+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2026-02-25T06:53:19.726+0530] {processor.py:161} INFO - Started process (PID=73576) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:53:19.727+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:53:19.727+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:53:19.727+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:53:19.740+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:53:19.739+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:53:19.740+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:53:19.778+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2026-02-25T06:55:08.052+0530] {processor.py:161} INFO - Started process (PID=77080) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:55:08.054+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:55:08.054+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:55:08.054+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:55:08.066+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:55:08.066+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:55:08.066+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:55:08.107+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2026-02-25T06:56:56.944+0530] {processor.py:161} INFO - Started process (PID=81276) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:56:56.946+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:56:56.946+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:56:56.946+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:56:56.959+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:56:56.958+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:56:56.959+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:56:56.996+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2026-02-25T06:58:45.800+0530] {processor.py:161} INFO - Started process (PID=85054) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:58:45.801+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T06:58:45.802+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:58:45.801+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:58:45.815+0530] {logging_mixin.py:188} INFO - [2026-02-25T06:58:45.815+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T06:58:45.815+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T06:58:45.860+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2026-02-25T07:00:30.925+0530] {processor.py:161} INFO - Started process (PID=88973) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:00:30.926+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T07:00:30.927+0530] {logging_mixin.py:188} INFO - [2026-02-25T07:00:30.927+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:00:30.939+0530] {logging_mixin.py:188} INFO - [2026-02-25T07:00:30.938+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T07:00:30.939+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:00:30.978+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2026-02-25T07:02:20.595+0530] {processor.py:161} INFO - Started process (PID=92830) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:02:20.596+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T07:02:20.596+0530] {logging_mixin.py:188} INFO - [2026-02-25T07:02:20.596+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:02:20.608+0530] {logging_mixin.py:188} INFO - [2026-02-25T07:02:20.608+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T07:02:20.609+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:02:20.646+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.051 seconds
+[2026-02-25T07:04:09.599+0530] {processor.py:161} INFO - Started process (PID=97247) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:04:09.601+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2026-02-25T07:04:09.601+0530] {logging_mixin.py:188} INFO - [2026-02-25T07:04:09.601+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:04:09.613+0530] {logging_mixin.py:188} INFO - [2026-02-25T07:04:09.612+0530] {dagbag.py:348} ERROR - Failed to import: /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2026-02-25T07:04:09.613+0530] {processor.py:842} WARNING - No viable dags retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2026-02-25T07:04:09.651+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
