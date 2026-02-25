@@ -2449,3 +2449,249 @@ File Path                                                                       
 ================================================================================
 [2026-02-25T07:53:36.114+0530] {manager.py:738} INFO - Searching for files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
 [2026-02-25T07:53:36.117+0530] {manager.py:741} INFO - There are 1 files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T07:53:58.533+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.14s           2026-02-25T02:23:58
+================================================================================
+[2026-02-25T07:54:29.898+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.27s           2026-02-25T02:24:29
+================================================================================
+[2026-02-25T07:55:01.170+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.16s           2026-02-25T02:25:01
+================================================================================
+[2026-02-25T07:55:32.504+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.24s           2026-02-25T02:25:32
+================================================================================
+[2026-02-25T07:56:03.982+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.38s           2026-02-25T02:26:03
+================================================================================
+[2026-02-25T07:56:35.309+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.22s           2026-02-25T02:26:35
+================================================================================
+[2026-02-25T07:57:06.764+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.36s           2026-02-25T02:27:06
+================================================================================
+[2026-02-25T07:57:38.015+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.14s           2026-02-25T02:27:38
+================================================================================
+[2026-02-25T07:58:09.318+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.19s           2026-02-25T02:28:09
+================================================================================
+[2026-02-25T07:58:36.125+0530] {manager.py:738} INFO - Searching for files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T07:58:36.129+0530] {manager.py:741} INFO - There are 1 files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T07:58:40.651+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.24s           2026-02-25T02:28:40
+================================================================================
+[2026-02-25T07:59:11.967+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.22s           2026-02-25T02:29:11
+================================================================================
+[2026-02-25T07:59:43.353+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.28s           2026-02-25T02:29:43
+================================================================================
+[2026-02-25T08:00:14.694+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.23s           2026-02-25T02:30:14
+================================================================================
+[2026-02-25T08:00:46.023+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.24s           2026-02-25T02:30:46
+================================================================================
+[2026-02-25T08:01:17.402+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.27s           2026-02-25T02:31:17
+================================================================================
+[2026-02-25T08:01:48.725+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.22s           2026-02-25T02:31:48
+================================================================================
+[2026-02-25T08:02:20.081+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.26s           2026-02-25T02:32:20
+================================================================================
+[2026-02-25T08:02:51.436+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.26s           2026-02-25T02:32:51
+================================================================================
+[2026-02-25T08:03:22.692+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.17s           2026-02-25T02:33:22
+================================================================================
+[2026-02-25T08:03:36.250+0530] {manager.py:738} INFO - Searching for files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T08:03:36.258+0530] {manager.py:741} INFO - There are 1 files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T08:03:54.040+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.25s           2026-02-25T02:33:54
+================================================================================
+[2026-02-25T08:04:25.336+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.21s           2026-02-25T02:34:25
+================================================================================
+[2026-02-25T08:04:56.648+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.22s           2026-02-25T02:34:56
+================================================================================
+[2026-02-25T08:05:27.959+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.22s           2026-02-25T02:35:27
+================================================================================
+[2026-02-25T08:05:59.337+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.26s           2026-02-25T02:35:59
+================================================================================
+[2026-02-25T08:06:30.620+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.19s           2026-02-25T02:36:30
+================================================================================
+[2026-02-25T08:07:01.951+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.24s           2026-02-25T02:37:01
+================================================================================
+[2026-02-25T08:07:33.103+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.08s           2026-02-25T02:37:33
+================================================================================
+[2026-02-25T08:08:04.395+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.17s           2026-02-25T02:38:04
+================================================================================
+[2026-02-25T08:08:35.655+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.13s           2026-02-25T02:38:35
+================================================================================
+[2026-02-25T08:08:36.405+0530] {manager.py:738} INFO - Searching for files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T08:08:36.410+0530] {manager.py:741} INFO - There are 1 files in /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags
+[2026-02-25T08:09:06.910+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py                           1           0  1.16s           2026-02-25T02:39:06
+================================================================================
