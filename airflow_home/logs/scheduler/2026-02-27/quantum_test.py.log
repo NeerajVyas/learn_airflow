@@ -1,0 +1,427 @@
+[2026-02-27T05:32:43.145+0530] {processor.py:161} INFO - Started process (PID=63373) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:32:43.146+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T05:32:43.146+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:32:43.146+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:32:43.159+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:32:43.204+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:32:43.204+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T05:32:43.209+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:32:43.209+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T05:32:43.216+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T05:33:14.249+0530] {processor.py:161} INFO - Started process (PID=64416) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:33:14.250+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T05:33:14.250+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:33:14.250+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:33:14.263+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:33:14.305+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:33:14.305+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T05:33:14.310+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:33:14.309+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T05:33:14.316+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T05:48:50.259+0530] {processor.py:161} INFO - Started process (PID=64759) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:48:50.260+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T05:48:50.260+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:48:50.260+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:48:50.273+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:48:50.318+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:48:50.318+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T05:48:50.322+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:48:50.322+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T05:48:50.329+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T05:49:21.443+0530] {processor.py:161} INFO - Started process (PID=65834) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:49:21.444+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T05:49:21.444+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:49:21.444+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:49:21.457+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:49:21.500+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:49:21.499+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T05:49:21.504+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:49:21.504+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T05:49:21.512+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T05:58:56.477+0530] {processor.py:161} INFO - Started process (PID=66181) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:58:56.483+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T05:58:56.483+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:58:56.483+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:58:56.496+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:58:56.538+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:58:56.538+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T05:58:56.542+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:58:56.542+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T05:58:56.548+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.072 seconds
+[2026-02-27T05:59:27.611+0530] {processor.py:161} INFO - Started process (PID=67234) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:59:27.612+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T05:59:27.612+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:59:27.612+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:59:27.627+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T05:59:27.676+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:59:27.676+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T05:59:27.681+0530] {logging_mixin.py:188} INFO - [2026-02-27T05:59:27.681+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T05:59:27.689+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.079 seconds
+[2026-02-27T06:15:03.515+0530] {processor.py:161} INFO - Started process (PID=67928) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:15:03.516+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:15:03.516+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:15:03.516+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:15:03.530+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:15:03.578+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:15:03.578+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:15:03.583+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:15:03.583+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:15:03.591+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.076 seconds
+[2026-02-27T06:15:34.890+0530] {processor.py:161} INFO - Started process (PID=68957) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:15:34.891+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:15:34.891+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:15:34.891+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:15:34.904+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:15:34.947+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:15:34.947+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:15:34.951+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:15:34.951+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:15:34.958+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T06:31:06.172+0530] {processor.py:161} INFO - Started process (PID=69305) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:31:06.173+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:31:06.173+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:31:06.173+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:31:06.186+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:31:06.230+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:31:06.229+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:31:06.234+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:31:06.234+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:31:06.241+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T06:31:37.416+0530] {processor.py:161} INFO - Started process (PID=70405) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:31:37.417+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:31:37.417+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:31:37.417+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:31:37.432+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:31:37.476+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:31:37.475+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:31:37.480+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:31:37.479+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:31:37.486+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T06:33:43.962+0530] {processor.py:161} INFO - Started process (PID=70750) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:33:43.963+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:33:43.963+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:33:43.963+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:33:43.978+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:33:44.029+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:33:44.029+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:33:44.034+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:33:44.034+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:33:44.045+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.083 seconds
+[2026-02-27T06:49:17.120+0530] {processor.py:161} INFO - Started process (PID=71097) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:49:17.121+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:49:17.121+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:49:17.121+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:49:17.135+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:49:17.182+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:49:17.182+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:49:17.186+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:49:17.186+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:49:17.194+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.075 seconds
+[2026-02-27T06:49:48.389+0530] {processor.py:161} INFO - Started process (PID=71790) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:49:48.390+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T06:49:48.390+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:49:48.390+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:49:48.405+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T06:49:48.453+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:49:48.453+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T06:49:48.458+0530] {logging_mixin.py:188} INFO - [2026-02-27T06:49:48.458+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T06:49:48.466+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.078 seconds
+[2026-02-27T07:05:23.442+0530] {processor.py:161} INFO - Started process (PID=72133) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:05:23.442+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:05:23.443+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:05:23.443+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:05:23.456+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:05:23.502+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:05:23.502+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:05:23.506+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:05:23.506+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:05:23.515+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.074 seconds
+[2026-02-27T07:05:54.858+0530] {processor.py:161} INFO - Started process (PID=73503) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:05:54.859+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:05:54.859+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:05:54.859+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:05:54.877+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:05:54.925+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:05:54.925+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:05:54.930+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:05:54.929+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:05:54.938+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.080 seconds
+[2026-02-27T07:21:30.121+0530] {processor.py:161} INFO - Started process (PID=73549) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:21:30.122+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:21:30.122+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:21:30.122+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:21:30.136+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:21:30.179+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:21:30.179+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:21:30.183+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:21:30.183+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:21:30.190+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T07:22:01.311+0530] {processor.py:161} INFO - Started process (PID=74876) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:22:01.312+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:22:01.312+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:22:01.312+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:22:01.326+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:22:01.369+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:22:01.369+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:22:01.373+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:22:01.373+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:22:01.380+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T07:34:44.179+0530] {processor.py:161} INFO - Started process (PID=75222) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:34:44.180+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:34:44.180+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:34:44.180+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:34:44.194+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:34:44.238+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:34:44.238+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:34:44.242+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:34:44.242+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:34:44.249+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T07:35:15.552+0530] {processor.py:161} INFO - Started process (PID=76254) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:35:15.553+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:35:15.553+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:35:15.553+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:35:15.566+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:35:15.608+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:35:15.608+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:35:15.612+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:35:15.612+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:35:15.618+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.067 seconds
+[2026-02-27T07:50:51.650+0530] {processor.py:161} INFO - Started process (PID=76603) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:50:51.651+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:50:51.652+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:50:51.651+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:50:51.665+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:50:51.708+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:50:51.708+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:50:51.712+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:50:51.712+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:50:51.719+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T07:51:22.749+0530] {processor.py:161} INFO - Started process (PID=77631) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:51:22.750+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T07:51:22.750+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:51:22.750+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:51:22.763+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T07:51:22.805+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:51:22.805+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T07:51:22.809+0530] {logging_mixin.py:188} INFO - [2026-02-27T07:51:22.809+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T07:51:22.816+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T08:06:58.134+0530] {processor.py:161} INFO - Started process (PID=77975) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:06:58.135+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:06:58.135+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:06:58.135+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:06:58.150+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:06:58.194+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:06:58.194+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:06:58.198+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:06:58.198+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:06:58.205+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.072 seconds
+[2026-02-27T08:07:29.494+0530] {processor.py:161} INFO - Started process (PID=79059) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:07:29.495+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:07:29.496+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:07:29.496+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:07:29.509+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:07:29.551+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:07:29.550+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:07:29.555+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:07:29.554+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:07:29.561+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.067 seconds
+[2026-02-27T08:23:05.478+0530] {processor.py:161} INFO - Started process (PID=79406) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:23:05.478+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:23:05.479+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:23:05.479+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:23:05.492+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:23:05.535+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:23:05.535+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:23:05.539+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:23:05.539+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:23:05.545+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T08:23:36.892+0530] {processor.py:161} INFO - Started process (PID=80438) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:23:36.893+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:23:36.893+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:23:36.893+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:23:36.908+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:23:36.951+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:23:36.951+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:23:36.955+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:23:36.955+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:23:36.962+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T08:35:44.205+0530] {processor.py:161} INFO - Started process (PID=80783) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:35:44.206+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:35:44.206+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:35:44.206+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:35:44.223+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:35:44.266+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:35:44.265+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:35:44.270+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:35:44.269+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:35:44.278+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.073 seconds
+[2026-02-27T08:36:15.291+0530] {processor.py:161} INFO - Started process (PID=81823) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:36:15.292+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:36:15.292+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:36:15.292+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:36:15.305+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:36:15.347+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:36:15.347+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:36:15.352+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:36:15.351+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:36:15.358+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T08:51:51.127+0530] {processor.py:161} INFO - Started process (PID=82167) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:51:51.128+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:51:51.128+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:51:51.128+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:51:51.142+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:51:51.208+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:51:51.208+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:51:51.213+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:51:51.213+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:51:51.221+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.095 seconds
+[2026-02-27T08:52:22.263+0530] {processor.py:161} INFO - Started process (PID=83210) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:52:22.264+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T08:52:22.264+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:52:22.264+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:52:22.278+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T08:52:22.321+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:52:22.321+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T08:52:22.325+0530] {logging_mixin.py:188} INFO - [2026-02-27T08:52:22.325+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T08:52:22.332+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T09:07:58.160+0530] {processor.py:161} INFO - Started process (PID=83555) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:07:58.161+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:07:58.161+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:07:58.161+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:07:58.174+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:07:58.219+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:07:58.219+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:07:58.223+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:07:58.223+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:07:58.230+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T09:08:29.364+0530] {processor.py:161} INFO - Started process (PID=84640) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:08:29.365+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:08:29.365+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:08:29.365+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:08:29.384+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:08:29.427+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:08:29.427+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:08:29.431+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:08:29.431+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:08:29.438+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.074 seconds
+[2026-02-27T09:24:06.401+0530] {processor.py:161} INFO - Started process (PID=85086) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:24:06.402+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:24:06.403+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:24:06.403+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:24:06.416+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:24:06.460+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:24:06.460+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:24:06.464+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:24:06.464+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:24:06.471+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T09:24:37.769+0530] {processor.py:161} INFO - Started process (PID=86366) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:24:37.770+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:24:37.770+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:24:37.770+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:24:37.789+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:24:37.836+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:24:37.836+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:24:37.840+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:24:37.840+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:24:37.848+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.079 seconds
+[2026-02-27T09:36:44.476+0530] {processor.py:161} INFO - Started process (PID=86714) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:36:44.477+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:36:44.477+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:36:44.477+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:36:44.490+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:36:44.532+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:36:44.532+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:36:44.536+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:36:44.536+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:36:44.542+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.066 seconds
+[2026-02-27T09:37:16.264+0530] {processor.py:161} INFO - Started process (PID=87761) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:37:16.265+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:37:16.266+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:37:16.265+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:37:16.279+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:37:16.322+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:37:16.322+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:37:16.326+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:37:16.326+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:37:16.333+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T09:52:52.342+0530] {processor.py:161} INFO - Started process (PID=88105) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:52:52.343+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:52:52.343+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:52:52.343+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:52:52.356+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:52:52.400+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:52:52.400+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:52:52.405+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:52:52.405+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:52:52.413+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T09:53:23.704+0530] {processor.py:161} INFO - Started process (PID=89194) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:53:23.705+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T09:53:23.705+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:53:23.705+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:53:23.719+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T09:53:23.762+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:53:23.762+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T09:53:23.766+0530] {logging_mixin.py:188} INFO - [2026-02-27T09:53:23.766+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T09:53:23.773+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T10:08:59.518+0530] {processor.py:161} INFO - Started process (PID=89541) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:08:59.518+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:08:59.519+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:08:59.518+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:08:59.533+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:08:59.575+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:08:59.575+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:08:59.579+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:08:59.579+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:08:59.586+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T10:09:30.617+0530] {processor.py:161} INFO - Started process (PID=90566) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:09:30.618+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:09:30.619+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:09:30.618+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:09:30.632+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:09:30.676+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:09:30.675+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:09:30.680+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:09:30.679+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:09:30.686+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T10:25:06.439+0530] {processor.py:161} INFO - Started process (PID=90913) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:25:06.440+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:25:06.440+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:25:06.440+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:25:06.453+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:25:06.495+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:25:06.495+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:25:06.499+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:25:06.499+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:25:06.506+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T10:25:37.654+0530] {processor.py:161} INFO - Started process (PID=91954) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:25:37.655+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:25:37.656+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:25:37.655+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:25:37.670+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:25:37.714+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:25:37.713+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:25:37.718+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:25:37.718+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:25:37.725+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T10:26:09.437+0530] {processor.py:161} INFO - Started process (PID=92982) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:26:09.438+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:26:09.439+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:26:09.439+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:26:09.452+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:26:09.494+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:26:09.494+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:26:09.498+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:26:09.498+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:26:09.504+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.067 seconds
+[2026-02-27T10:37:44.241+0530] {processor.py:161} INFO - Started process (PID=92987) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:37:44.241+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:37:44.242+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:37:44.242+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:37:44.251+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:37:44.291+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:37:44.291+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:37:44.295+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:37:44.295+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:37:44.301+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.060 seconds
+[2026-02-27T10:38:15.416+0530] {processor.py:161} INFO - Started process (PID=94072) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:38:15.416+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:38:15.417+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:38:15.417+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:38:15.431+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:38:15.474+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:38:15.474+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:38:15.478+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:38:15.478+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:38:15.485+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T10:39:45.796+0530] {processor.py:161} INFO - Started process (PID=94415) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:39:45.797+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:39:45.797+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:39:45.797+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:39:45.810+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:39:45.853+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:39:45.853+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:39:45.857+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:39:45.857+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:39:45.864+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T10:40:17.049+0530] {processor.py:161} INFO - Started process (PID=95454) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:40:17.049+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:40:17.050+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:40:17.050+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:40:17.063+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:40:17.108+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:40:17.108+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:40:17.112+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:40:17.112+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:40:17.118+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T10:40:48.643+0530] {processor.py:161} INFO - Started process (PID=96481) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:40:48.644+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:40:48.644+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:40:48.644+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:40:48.659+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:40:48.707+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:40:48.707+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:40:48.712+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:40:48.712+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:40:48.720+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.077 seconds
+[2026-02-27T10:41:19.966+0530] {processor.py:161} INFO - Started process (PID=97851) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:41:19.967+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:41:19.967+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:41:19.967+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:41:19.980+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:41:20.025+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:41:20.025+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:41:20.029+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:41:20.029+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:41:20.036+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T10:57:15.044+0530] {processor.py:161} INFO - Started process (PID=98878) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:57:15.045+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:57:15.045+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:57:15.045+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:57:15.059+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:57:15.024+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:57:15.024+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:57:15.034+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:57:15.034+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:57:15.042+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.083 seconds
+[2026-02-27T10:57:46.072+0530] {processor.py:161} INFO - Started process (PID=99921) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:57:46.073+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T10:57:46.073+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:57:46.073+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:57:46.086+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T10:57:46.129+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:57:46.128+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T10:57:46.133+0530] {logging_mixin.py:188} INFO - [2026-02-27T10:57:46.133+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T10:57:46.139+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T11:13:22.794+0530] {processor.py:161} INFO - Started process (PID=418) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:13:22.795+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:13:22.795+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:13:22.795+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:13:22.809+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:13:22.851+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:13:22.851+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:13:22.855+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:13:22.855+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:13:22.861+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T11:13:54.262+0530] {processor.py:161} INFO - Started process (PID=1574) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:13:54.263+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:13:54.263+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:13:54.263+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:13:54.276+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:13:54.318+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:13:54.318+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:13:54.322+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:13:54.322+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:13:54.329+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T11:29:31.256+0530] {processor.py:161} INFO - Started process (PID=1936) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:29:31.256+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:29:31.257+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:29:31.257+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:29:31.270+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:29:31.312+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:29:31.312+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:29:31.316+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:29:31.316+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:29:31.322+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.067 seconds
+[2026-02-27T11:30:02.666+0530] {processor.py:161} INFO - Started process (PID=2976) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:30:02.667+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:30:02.668+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:30:02.668+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:30:02.682+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:30:02.726+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:30:02.726+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:30:02.730+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:30:02.730+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:30:02.736+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
+[2026-02-27T11:38:45.524+0530] {processor.py:161} INFO - Started process (PID=3323) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:38:45.525+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:38:45.525+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:38:45.525+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:38:45.538+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:38:45.581+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:38:45.581+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:38:45.585+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:38:45.585+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:38:45.591+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.068 seconds
+[2026-02-27T11:39:16.935+0530] {processor.py:161} INFO - Started process (PID=4367) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:39:16.936+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:39:16.936+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:39:16.936+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:39:16.950+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:39:16.993+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:39:16.993+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:39:16.997+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:39:16.997+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:39:17.003+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.069 seconds
+[2026-02-27T11:45:41.339+0530] {processor.py:161} INFO - Started process (PID=4716) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:45:41.340+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:45:41.341+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:45:41.341+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:45:41.356+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:45:41.401+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:45:41.401+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:45:41.405+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:45:41.405+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:45:41.412+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.074 seconds
+[2026-02-27T11:46:12.470+0530] {processor.py:161} INFO - Started process (PID=5773) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:46:12.471+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:46:12.472+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:46:12.471+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:46:12.487+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:46:12.531+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:46:12.531+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:46:12.536+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:46:12.536+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:46:12.544+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.074 seconds
+[2026-02-27T11:46:43.849+0530] {processor.py:161} INFO - Started process (PID=6803) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:46:43.850+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:46:43.850+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:46:43.850+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:46:43.865+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:46:43.909+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:46:43.909+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:46:43.913+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:46:43.913+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:46:43.920+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.071 seconds
+[2026-02-27T11:47:15.207+0530] {processor.py:161} INFO - Started process (PID=7835) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:47:15.208+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:47:15.209+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:47:15.209+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:47:15.224+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:47:15.273+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:47:15.272+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:47:15.277+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:47:15.277+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:47:15.285+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.078 seconds
+[2026-02-27T11:47:46.400+0530] {processor.py:161} INFO - Started process (PID=8912) to work on /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:47:46.401+0530] {processor.py:830} INFO - Processing file /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py for tasks to queue
+[2026-02-27T11:47:46.401+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:47:46.401+0530] {dagbag.py:538} INFO - Filling up the DagBag from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:47:46.416+0530] {processor.py:840} INFO - DAG(s) 'quantum_workflow_v1' retrieved from /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py
+[2026-02-27T11:47:46.460+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:47:46.459+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-02-27T11:47:46.464+0530] {logging_mixin.py:188} INFO - [2026-02-27T11:47:46.463+0530] {dag.py:3823} INFO - Setting next_dagrun for quantum_workflow_v1 to None, run_after=None
+[2026-02-27T11:47:46.470+0530] {processor.py:183} INFO - Processing /Users/neerajvyas/learning/airflow/learn_airflow/airflow_home/dags/quantum_test.py took 0.070 seconds
